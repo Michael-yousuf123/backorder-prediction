@@ -4,3 +4,6 @@ data/*
 
 # exception to the rule
 !data/.gitkeep
+# ignore config file
+
+config.ini
